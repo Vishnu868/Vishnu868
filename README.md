@@ -44,89 +44,41 @@
 
 ## 🌟 Featured Projects
 
-### 🏥 **Crop Health Assessment & Disease Detection**
-*Advanced ML system for agricultural diagnostics*
-- 🔬 Computer Vision-based crop disease identification
-- 📊 Real-time health assessment algorithms  
-- 🌾 Helping farmers make data-driven decisions
-- **Tech**: Python, TensorFlow, OpenCV, Machine Learning
+### ![Agriculture](https://img.shields.io/badge/Agriculture-4CAF50?style=for-the-badge&logo=leaf&logoColor=white) **Crop Health Assessment & Disease Detection**
+*AI-powered agricultural diagnostics using computer vision*
 
-### 🤝 **Friend Recommendation System**
-*Intelligent social networking algorithm*
-- 🧠 Graph-based recommendation engine
-- 📈 Advanced similarity matching algorithms
-- 🔗 Social network analysis and optimization
-- **Tech**: Python, Graph Algorithms, Data Analysis
+### ![Social](https://img.shields.io/badge/Social-1976D2?style=for-the-badge&logo=share&logoColor=white) **Friend Recommendation System**  
+*Graph-based social network recommendation engine*
 
-### 🤖 **Smart Obstacle Avoiding Robot - 3D Simulation**
-*Autonomous navigation system with realistic physics*
-- 🎮 3D physics simulation environment
-- 🛡️ Real-time obstacle detection and avoidance
-- 🎯 Path optimization algorithms
-- **Tech**: 3D Graphics, Physics Engine, Robotics, AI
+### ![Robotics](https://img.shields.io/badge/Robotics-FF5722?style=for-the-badge&logo=robot&logoColor=white) **Smart Obstacle Avoiding Robot - 3D Simulation**
+*Autonomous navigation with real-time physics simulation*
 
-### 🔍 **DSA Algorithms - Edmonds Karp Bidirectional Search**
-*Advanced graph algorithm implementation*
-- ⚡ Maximum flow algorithm optimization
-- 🔄 Bidirectional search enhancement
-- 📊 Performance analysis and benchmarking
-- **Tech**: C++, Graph Theory, Algorithm Optimization
+### ![Algorithm](https://img.shields.io/badge/Algorithm-9C27B0?style=for-the-badge&logo=algorithm&logoColor=white) **DSA Algorithms - Edmonds Karp Bidirectional Search**
+*Optimized maximum flow algorithm implementation*
 
-### 🌐 **Proxy Server Project**
-*High-performance network infrastructure*
-- 🚀 Custom proxy server implementation
-- 🔒 Security and caching mechanisms
-- 📡 Network protocol optimization
-- **Tech**: System Programming, Networking, Performance Tuning
+### ![Network](https://img.shields.io/badge/Network-607D8B?style=for-the-badge&logo=server&logoColor=white) **Proxy Server Project**
+*High-performance network infrastructure with caching*
 
-### ☀️ **Sun Tracker**
-*IoT-based solar panel optimization system*
-- 🔆 Automatic solar panel positioning
-- 📱 Real-time monitoring and control
-- ⚡ Energy efficiency optimization
-- **Tech**: IoT, Hardware Integration, Data Analytics
+### ![IoT](https://img.shields.io/badge/IoT-FF9800?style=for-the-badge&logo=sun&logoColor=white) **Sun Tracker**
+*IoT solar panel positioning optimization system*
 
-### 🧬 **Protein-Protein Interaction ML Prediction**
-*Bioinformatics machine learning application*
-- 🔬 Computational biology and drug discovery
-- 🧠 Deep learning for molecular interactions
-- 📊 Bioinformatics data processing
-- **Tech**: Python, Deep Learning, Bioinformatics, Research
+### ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-E91E63?style=for-the-badge&logo=dna&logoColor=white) **Protein-Protein Interaction ML Prediction**
+*Bioinformatics ML for molecular interaction analysis*
 
-### 📈 **Gradient Descent & Ascent Optimization**
-*Mathematical optimization algorithms*
-- 🎯 Custom optimization algorithm implementations
-- 📊 Convergence analysis and visualization
-- 🔢 Numerical methods and mathematical modeling
-- **Tech**: Python, NumPy, Mathematical Optimization
+### ![Math](https://img.shields.io/badge/Mathematics-3F51B5?style=for-the-badge&logo=calculator&logoColor=white) **Gradient Descent & Ascent Optimization**
+*Custom mathematical optimization algorithms*
 
-### 🍽️ **Canteen Management System - C**
-*Efficient food service automation*
-- 💳 Order processing and billing system
-- 📊 Inventory management and analytics
-- 👥 Multi-user role management
-- **Tech**: C Programming, System Design, Database Management
+### ![System](https://img.shields.io/badge/System-795548?style=for-the-badge&logo=restaurant&logoColor=white) **Canteen Management System - C**
+*Complete food service automation solution*
 
-### 🧬 **Cancer Genome Detection**
-*Medical AI for genomic analysis*
-- 🔬 Genomic data analysis and pattern recognition
-- 🏥 Machine learning for medical diagnostics
-- 📊 Bioinformatics and computational medicine
-- **Tech**: Python, Bioinformatics, Machine Learning, Healthcare
+### ![Medical](https://img.shields.io/badge/Medical-F44336?style=for-the-badge&logo=medical-cross&logoColor=white) **Cancer Genome Detection**
+*Medical AI for genomic pattern recognition*
 
-### 🔄 **Sorting Algorithms - HackAssembly**
-*Low-level algorithm implementations*
-- ⚙️ Assembly language programming
-- 📊 Performance optimization at hardware level
-- 🔧 System-level algorithm analysis
-- **Tech**: Assembly Language, System Programming, Performance Analysis
+### ![Assembly](https://img.shields.io/badge/Assembly-424242?style=for-the-badge&logo=microchip&logoColor=white) **Sorting Algorithms - HackAssembly**
+*Low-level performance-optimized sorting implementations*
 
-### 🌐 **Chitrabhojanam Catering Website**
-*Full-stack web application for catering services*
-- 🍽️ Complete catering business solution
-- 💻 Responsive web design and user experience
-- 📱 Mobile-friendly interface
-- **Tech**: HTML, CSS, JavaScript, Web Development
+### ![Web](https://img.shields.io/badge/Web-009688?style=for-the-badge&logo=web&logoColor=white) **Chitrabhojanam Catering Website**
+*Full-stack responsive catering business platform*
 
 ## 📊 GitHub Analytics
 
