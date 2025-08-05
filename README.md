@@ -15,7 +15,7 @@
 - 🌱 Currently exploring **Advanced Machine Learning**, **3D Simulations**, and **System Architecture**
 - 💡 I believe in **collaborative learning** and **collective growth**!
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -42,7 +42,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### ![Agriculture](https://img.shields.io/badge/Agriculture-4CAF50?style=for-the-badge&logo=leaf&logoColor=white) **Crop Health Assessment & Disease Detection**
 *AI-powered agricultural diagnostics using computer vision*
@@ -80,7 +80,7 @@
 ### ![Web](https://img.shields.io/badge/Web-009688?style=for-the-badge&logo=web&logoColor=white) **Chitrabhojanam Catering Website**
 *Full-stack responsive catering business platform*
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -90,7 +90,7 @@
 
 </div>
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
   
@@ -98,7 +98,7 @@
 
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   
@@ -106,7 +106,7 @@
 
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
 - 🔬 **Healthcare AI**: Developing ML solutions for medical diagnostics
 - 🤖 **Robotics & Simulation**: Creating intelligent autonomous systems  
@@ -114,13 +114,13 @@
 - 📊 **Algorithm Optimization**: Researching advanced computational methods
 - 🧬 **Bioinformatics**: Applying AI to biological data analysis
 
-## 💭 Philosophy
+## Philosophy
 
 > *"Building ideas into reality, one line of code at a time."*
 
 *Modernism does not mean minimalism, contemporary does not forsake tradition and technology does not mean abandon people and senses.* — Tord Boontje
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
