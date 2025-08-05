@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 - 🔭 **Computer Science Student** passionate about building scalable and impactful solutions
 - 💻 **Full-Stack Developer** with expertise in modern web technologies
