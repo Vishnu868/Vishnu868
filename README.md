@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 🔭 **Computer Science Student** passionate about building scalable and impactful solutions
+- 🔭 **AI and ML Student** passionate about building scalable and impactful solutions
 - 💻 **Full-Stack Developer** with expertise in modern web technologies
 - 🤖 **AI/ML Enthusiast** working on machine learning and healthcare applications  
 - 🎯 **Problem Solver** who loves tackling complex algorithmic challenges
@@ -110,17 +110,10 @@
 
 ## Current Focus
 
-- 🔬 **Healthcare AI**: Developing ML solutions for medical diagnostics
-- 🤖 **Robotics & Simulation**: Creating intelligent autonomous systems  
-- 🌐 **Full-Stack Development**: Building scalable web applications
-- 📊 **Algorithm Optimization**: Researching advanced computational methods
-- 🧬 **Bioinformatics**: Applying AI to biological data analysis
+-  **Healthcare AI**: Developing ML solutions for medical diagnostics
+-  **Robotics & Simulation**: Creating intelligent autonomous systems  
+-  **Full-Stack Development**: Building scalable web applications
 
-## Philosophy
-
-> *"Building ideas into reality, one line of code at a time."*
-
-*Modernism does not mean minimalism, contemporary does not forsake tradition and technology does not mean abandon people and senses.* — Tord Boontje
 
 ## Let's Connect!
 
