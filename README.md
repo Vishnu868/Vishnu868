@@ -8,12 +8,12 @@
 
 ## About Me
 
-- 🔭 **AI and ML Student** passionate about building scalable and impactful solutions
-- 💻 **Full-Stack Developer** with expertise in modern web technologies
-- 🤖 **AI/ML Enthusiast** working on machine learning and healthcare applications  
-- 🎯 **Problem Solver** who loves tackling complex algorithmic challenges
-- 🌱 Currently exploring **Advanced Machine Learning**, **3D Simulations**, and **System Architecture**
-- 💡 I believe in **collaborative learning** and **collective growth**!
+-  **AI and ML Student** passionate about building scalable and impactful solutions
+-  **Full-Stack Developer** with expertise in modern web technologies
+-  **AI/ML Enthusiast** working on machine learning and healthcare applications  
+-  **Problem Solver** who loves tackling complex algorithmic challenges
+-  Currently exploring **Advanced Machine Learning**, **3D Simulations**, and **System Architecture**
+-  I believe in **collaborative learning** and **collective growth**!
 
 ## Tech Stack
 
