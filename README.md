@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vishnu
+# Hi there! I'm Vishnu
 
 <div align="center">
   
