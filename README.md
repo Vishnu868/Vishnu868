@@ -89,7 +89,8 @@
   
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu868&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vishnu868&layout=compact&theme=radical&hide_border=true&bg_color=0D1117
+)
 
 </div>
 
