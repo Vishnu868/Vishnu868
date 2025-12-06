@@ -2,7 +2,8 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnu868&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/apiusername=Vishnu868&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117](https://github-readme-stats-git-masterorg.vercel.app/api?username=Vishnu868&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117
+)
 
 </div>
 
