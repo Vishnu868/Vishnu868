@@ -70,7 +70,7 @@
 
 ### ![Math](https://img.shields.io/badge/Mathematics-3F51B5?style=for-the-badge&logo=calculator&logoColor=white) **Gradient Descent & Ascent Optimization**
 *Custom mathematical optimization algorithms*
-
+ 
 ### ![System](https://img.shields.io/badge/System-795548?style=for-the-badge&logo=restaurant&logoColor=white) **Canteen Management System - C**
 *Complete food service automation solution*
 
