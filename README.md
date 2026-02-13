@@ -83,16 +83,7 @@
 ### ![Web](https://img.shields.io/badge/Web-009688?style=for-the-badge&logo=web&logoColor=white) **Chitrabhojanam Catering Website**
 *Full-stack responsive catering business platform*
 
-## GitHub Analytics
 
-<div align="center">
-  
-
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vishnu868&layout=compact&theme=radical&hide_border=true&bg_color=0D1117
-)
-
-</div>
 
 ## GitHub Achievements
 
