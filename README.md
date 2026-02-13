@@ -87,11 +87,8 @@
 
 ## GitHub Achievements
 
-<div align="center">
-  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Vishnu868&theme=radical&no-bg=true&no-frame=true&row=1&column=7)
 
-</div>
 
 ## Contribution Graph
 
