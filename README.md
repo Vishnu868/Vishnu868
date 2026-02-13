@@ -85,9 +85,10 @@
 
 
 
-## GitHub Achievements
+## GitHub Streak
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vishnu868&theme=radical&no-bg=true&no-frame=true&row=1&column=7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishnu868&theme=radical)
+
 
 
 ## Contribution Graph
