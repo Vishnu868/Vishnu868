@@ -101,9 +101,10 @@
 
 ## Current Focus
 
--  **Healthcare AI**: Developing ML solutions for medical diagnostics
--  **Robotics & Simulation**: Creating intelligent autonomous systems  
--  **Full-Stack Development**: Building scalable web applications
+- **Applied AI Engineering**: Designing real-world AI systems that integrate automation, vision, and intelligent decision-making
+- **AI Infrastructure & Workflows**: Building scalable OCR, RAG, and multi-agent AI pipelines
+- **Autonomous & Simulation Systems**: Developing intelligent environments using computer vision and simulation technologies
+- **Scalable Full-Stack Platforms**: Engineering modern AI-enabled web applications and backend architectures
 
 
 ## Let's Connect!
