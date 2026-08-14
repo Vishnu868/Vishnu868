@@ -2,10 +2,21 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vishnu868&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117
-)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vishnu868&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
+
+<div align="center">
+
+### 🎮 [CodeRealm](https://coderealm.tech) — 100-Level Coding Adventure
+
+**A gamified coding platform where you solve real programming & DSA challenges, earn XP, unlock levels, and master your way from beginner to advanced.**
+
+**Python • C++ • Java • JavaScript | 100 Levels | DSA • Algorithms • DP**
+
+</div>
+
+---
 
 ## About Me
 
