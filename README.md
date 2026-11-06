@@ -109,11 +109,25 @@
 | ------- | ----------- |
 | [**CODEREALM**](https://github.com/Vishnu868/CODEREALM) ([live](https://coderealm-one.vercel.app)) | Browser-based coding adventure with 100 real programming missions, multi-language code execution, hidden tests, performance gates, XP, achievements and offline-first progress sync |
 | [**student-career-nav**](https://github.com/Vishnu868/student-career-nav) ([live](https://student-career-nav.vercel.app)) | AI-powered career guidance platform that helps students discover career paths and build personalized roadmaps (TypeScript) |
-| [**Task-Managment**](https://github.com/Vishnu868/Task-Managment) ([live](https://task-managment-ecru-delta.vercel.app)) | Google Sheets-backed mobile task manager with real-time sync, AI-powered weekly performance summaries and automated team scoring |
+| [**Task-Management**](https://github.com/Vishnu868/Task-Management) ([live](https://task-managment-ecru-delta.vercel.app)) | Google Sheets-backed mobile task manager with real-time sync, AI-powered weekly performance summaries and automated team scoring |
 | [**custom-gifting-store**](https://github.com/Vishnu868/custom-gifting-store) | Custom gifting e-commerce site with real-time 3D product previews, personalized printing and a corporate + lifestyle catalog |
-| [**Brandingdelight**](https://github.com/Vishnu868/Brandingdelight) ([live](https://brandingdelight.vercel.app)) | TypeScript web project deployed on Vercel |
+| [**Brandingdelight**](https://github.com/Vishnu868/Brandingdelight) ([live](https://brandingdelight.vercel.app)) | Mobile-first premium gifting store: 3,000+ products from 34 brands, Next.js 15, React 19, Supabase, Firebase Auth, Razorpay and an admin panel |
 | [**chitrabhojanam-catering-website**](https://github.com/Vishnu868/chitrabhojanam-catering-website) | Responsive catering business website with dynamic menus, online booking, gallery and contact integration (React, Firebase) |
-| **PARO** | E-commerce website for a women's clothing client: Next.js, TypeScript, Tailwind CSS, Razorpay payments |
+| **PARO** ([live](https://paroearth.com)) | E-commerce platform for PAROEARTH: Next.js, Prisma, Razorpay payments and webhooks, stock management and admin dashboard |
+
+### 🧠 Machine Learning, NLP & Computer Vision
+
+| Project | Description |
+| ------- | ----------- |
+| [**VoxWear**](https://github.com/Vishnu868/VoxWear) | Bidirectional gesture–speech assistant: MediaPipe + XGBoost gestures, Whisper STT, YOLOv8 scene awareness and an agentic LLM core, on a custom FPV day/night dataset |
+| [**LCM-GUARD-Multilingual-Offensive-Language-Detection**](https://github.com/Vishnu868/LCM-GUARD-Multilingual-Offensive-Language-Detection) | Offensive language detection for 8 Indian languages and code-mixed text with 4-modal feature fusion + SVM, benchmarked against mBERT and IndicBERT |
+| [**Hybrid-Grammar-Correction-CFG-Transformer**](https://github.com/Vishnu868/Hybrid-Grammar-Correction-CFG-Transformer) | Explainable grammar correction combining DFA/FSA/CFG checks with a T5 Transformer, in a Streamlit UI |
+| [**Multimodal-Emotion-Recognition-CNN-LSTM-Transformer**](https://github.com/Vishnu868/Multimodal-Emotion-Recognition-CNN-LSTM-Transformer) | EEG, physiological and eye-tracking emotion recognition with CNN/LSTM/GRU branches and Transformer fusion (PyTorch) |
+| [**FPV-Hand-Gesture-Recognition**](https://github.com/Vishnu868/FPV-Hand-Gesture-Recognition) | Classical-CV first-person hand gesture recognition (HSV, Hu moments, HOG): SVM at 91.2% accuracy, 60 FPS |
+| [**Bayesian-Churn-Prediction**](https://github.com/Vishnu868/Bayesian-Churn-Prediction) | Bayesian logistic regression with Hamiltonian Monte Carlo (PyMC) for churn prediction with uncertainty estimates |
+| [**Energy-Transition-Prediction-Time-Series-Forecasting**](https://github.com/Vishnu868/Energy-Transition-Prediction-Time-Series-Forecasting) | ARIMA, SARIMA, LSTM and GARCH load forecasting (LSTM best at 4.3% MAPE), plus the EnergyTripAI Streamlit dashboard |
+| [**Self-Adaptive-Zero-Trust-Security-Layer**](https://github.com/Vishnu868/Self-Adaptive-Zero-Trust-Security-Layer) | Isolation Forest risk scoring on encrypted-traffic metadata (UNSW-NB15) driving adaptive ALLOW / CHALLENGE / BLOCK enforcement |
+| [**Urban-Accident-Risk-Analytics-Big-Data**](https://github.com/Vishnu868/Urban-Accident-Risk-Analytics-Big-Data) | Kafka, HDFS, Hive and Spark MLlib/Streaming pipeline for real-time urban accident and congestion hotspot detection |
 
 ### 🔬 Research, Medical & Bioinformatics
 
@@ -121,7 +135,7 @@
 | ------- | ----------- |
 | [**FreqODES**](https://github.com/Vishnu868/FreqODES) | Reproduction of ODES (MICCAI 2025) on CHAOS T1 MRI, plus FFT/DWT frequency-domain image pruning for online active domain adaptation (course 22AIE437) |
 | [**Protein-Protein-Interaction-ML-Prediction**](https://github.com/Vishnu868/Protein-Protein-Interaction-ML-Prediction) | Deep learning study on predicting protein-protein interactions: interaction modeling, binding site prediction and binding affinity estimation |
-| [**cancer-genome-detection**](https://github.com/Vishnu868/cancer-genome-detection) | Aho-Corasick and Boyer-Moore string matching for detecting cancer-causing mutations in DNA sequences, with mutation distribution visualization |
+| [**Cancer-Genome-Mutation-Detection**](https://github.com/Vishnu868/Cancer-Genome-Mutation-Detection) | Aho-Corasick and Boyer-Moore string matching for detecting cancer-causing mutations in DNA sequences, with mutation distribution visualization |
 | [**Crop-Health-Assessment-and-Disease-Detection**](https://github.com/Vishnu868/Crop-Health-Assessment-and-Disease-Detection) | IoT + ML smart agriculture system for real-time plant disease detection using YOLOv5 + SFR, with a Flutter mobile app and ESP32-CAM |
 
 ### 🎓 Algorithms, Systems & IoT
@@ -129,7 +143,7 @@
 | Project | Description |
 | ------- | ----------- |
 | [**Smart-Obstacle-Avoiding-Robot-3D-Simulation**](https://github.com/Vishnu868/Smart-Obstacle-Avoiding-Robot-3D-Simulation) | Autonomous 4-wheeled robot with obstacle detection, ADMM-based convex optimization for path planning, kinematic control, and Bluetooth/voice control |
-| [**Sun_tracker**](https://github.com/Vishnu868/Sun_tracker) | Dual-axis Arduino solar panel tracker using LDRs and servos for maximum energy efficiency |
+| [**Dual-Axis-Sun-Tracker-Arduino**](https://github.com/Vishnu868/Dual-Axis-Sun-Tracker-Arduino) | Dual-axis Arduino solar panel tracker using LDRs and servos for maximum energy efficiency |
 | [**Friend-Recommendation-System**](https://github.com/Vishnu868/Friend-Recommendation-System) | Graph-theory friend recommendation engine built with adjacency matrices and discrete math |
 | [**Gradient-Descent-and-Ascent-Optimization**](https://github.com/Vishnu868/Gradient-Descent-and-Ascent-Optimization) | Gradient Descent and Ascent with the Adagrad optimizer and 3D surface plots |
 | [**DSA-algorithms-edmonds-karp-bidirectional-search**](https://github.com/Vishnu868/DSA-algorithms-edmonds-karp-bidirectional-search) | Edmonds-Karp (max flow via BFS) and Bidirectional Search, with visual explanation and performance comparison |
