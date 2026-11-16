@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![GitHub Stats](./github-metrics.svg)
+![Contributions calendar](./github-metrics.svg)
 
 </div>
 

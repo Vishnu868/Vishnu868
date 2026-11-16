@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/metrics.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          committer_token: ${{ github.token }}
+          user: Vishnu868
+          base: ""
+          config_timezone: Asia/Calcutta
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
