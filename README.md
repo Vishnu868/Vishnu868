@@ -12,7 +12,7 @@
 
 **A gamified coding platform where you solve real programming & DSA challenges, earn XP, unlock levels, and master your way from beginner to advanced.**
 
-**Python • C++ • Java • JavaScript | 100 Levels | DSA • Algorithms • DP**
+**Python • C++ • JavaScript | 100 Levels | DSA • Algorithms • DP**
 
 </div>
 
